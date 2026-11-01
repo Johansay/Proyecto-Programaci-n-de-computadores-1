@@ -1,3 +1,5 @@
+CRUD en consola con persistencia de datos y modularidad
+
 El proyecto cuenta con las siguientes características  
 1) Menú el cual permite añadir nuevos postulantes introduciendo nombre y edad.
 2) Leer la lista de participantes por nombre y edad.
